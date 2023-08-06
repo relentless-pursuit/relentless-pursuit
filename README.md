@@ -29,4 +29,4 @@ While I'm on my journey to make a mark in the expansive universe of open source,
 Knowledge grows when shared. I occasionally pen my thoughts and share insights on [LinkedIn](www.linkedin.com/in/piyush-sadangi).
 
 ## Connect with Me
-- Feel free to [drop me an email](mailto:piyush.sadangi@gmail.com) anytime!
+Feel free to [drop me an email](mailto:piyush.sadangi@gmail.com) anytime!
