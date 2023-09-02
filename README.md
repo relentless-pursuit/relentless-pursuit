@@ -18,7 +18,7 @@ My coding journey began at 29, after a 5-year career hiatus. The world of coding
 - **Frameworks**: Spring Boot, Hibernate
 - **Tools**: Git, GitHub, SonarQube, JUnit, Swagger, RabbitMQ, Gerrit, Maven
 - **Databases**: MySQl
-- **AI tools**: GPT-4, Bard, ChatGPT, 
+- **AI tools**: GPT-4, Bard, ChatGPT
 
 ## My Foray into Open Source
 While I'm on my journey to make a mark in the expansive universe of open source, I've taken initial steps by contributing to several projects. Dive into my contributions on GitHub to get a glimpse of my efforts:
