@@ -25,7 +25,7 @@ While I'm on my journey to make a mark in the expansive universe of open source,
 - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3Arelentless-pursuit+is%3Amerged+merged%3A%3E2023-01-01)
 - [ankidroid/andkidroid](https://github.com/ankidroid/Anki-Android/pulls?q=is%3Apr+author%3Arelentless-pursuit+is%3Amerged+merged%3A%3E2023-01-01)
 
-### :zap: Recent Activity
+## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
