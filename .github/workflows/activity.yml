@@ -5,6 +5,9 @@ on:
     - cron: '0 */2 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,18 +15,23 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      
+        with:
+          token: ${{ secrets.MY_PAT }}
+
       - uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_PAT }}
+          GH_PAT: ${{ secrets.MY_PAT }}
         with:
           COMMIT_MSG: '⚡ Update README with the recent activity'
           MAX_LINES: 5
-          
+
       - name: Commit & Push changes
+        env:
+          GH_PAT: ${{ secrets.MY_PAT }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin https://${GH_PAT}@github.com/${{ github.repository }}.git
           git add README.md
           git commit -m "⚡ Update README with the recent activity"
           git push
