@@ -26,8 +26,8 @@ While I'm on my journey to make a mark in the expansive universe of open source,
 <!--END_SECTION:activity-->
 
 ## Domain Expertise:
-Telecom: Event-Driven Architecture
-Finance: Retirement Solutions Providers / 401(k) Plan Solutions 
+- Telecom: Event-Driven Architecture
+- Finance: Retirement Solutions Providers / 401(k) Plan Solutions 
 
 ## Professional Experience
 - API Development: Created and enhanced APIs using microservices architecture, enabling seamless inter-service communication and collaboration across teams.
