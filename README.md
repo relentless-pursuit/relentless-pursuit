@@ -41,7 +41,7 @@ While I'm on my journey to make a mark in the expansive universe of open source,
 ## Skills
 - **Languages**: Java, Groovy, Bash  
 - **Frameworks**: Spring Boot, Spring Security, JUnit 5, Hibernate
-- **Messaging**: RabbitMQ  
+- **Messaging-Queue**: RabbitMQ  
 - **Tools**: Git, GitHub, Gitlab, SonarQube, Maven, Gradle, SoapUI, Postman  
 - **DevOps**: GitHub Actions, Jenkins , AWS(EC2, S3)
 - **Databases**: MySQL
