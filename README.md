@@ -8,7 +8,7 @@ While I'm on my journey to make a mark in the expansive universe of open source,
 - [checkstyle/contribution](https://github.com/checkstyle/contribution/pulls?q=is%3Apr+author%3Arelentless-pursuit)
 - [checkstyke/test-configs](https://github.com/checkstyle/test-configs/pulls?q=is%3Apr+is%3Amerged)
 
-### My Contributions in GSoC, 2024
+## My Contributions in GSoC, 2024
 
 - **Built a scalable and maintainable Gradle project under a new repo (`checkstyle/test-configs`)
 - **Migrated Groovy Regression to Java**
