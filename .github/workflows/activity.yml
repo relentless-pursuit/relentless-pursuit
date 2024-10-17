@@ -1,0 +1,28 @@
+name: Update README with Recent Activity
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    name: Update README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: jamesgeorge007/github-activity-readme@v0.2.1
+        with:
+          COMMIT_MSG: "⚡ Update README with recent activity"
+          MAX_LINES: 5
+          GH_PAT: ${{ secrets.PAT_1 }}
+          
+      - name: Commit & Push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: ${{ steps.github-activity-readme.outputs.COMMIT_MESSAGE }}
+          file_pattern: README.md
