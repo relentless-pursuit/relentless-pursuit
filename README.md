@@ -38,13 +38,12 @@ While I'm on my journey to make a mark in the expansive universe of open source,
 
 ## Skills
 
-- **Languages**: Java 8, Groovy, Bash  
-- **Frameworks**: Spring Boot, Spring Security, JUnit 5  
+- **Languages**: Java, Groovy, Bash  
+- **Frameworks**: Spring Boot, Spring Security, JUnit 5, Hibernate
 - **Messaging**: RabbitMQ  
-- **Tools**: Git, GitHub, SonarQube, Maven, Gradle, SoapUI, Postman  
-- **DevOps**: GitHub Actions, Jenkins  
+- **Tools**: Git, GitHub, Gitlab, SonarQube, Maven, Gradle, SoapUI, Postman  
+- **DevOps**: GitHub Actions, Jenkins , AWS(EC2, S3)
 - **Databases**: MySQL
-- **Cloud**: AWS(EC2, S3)
 
 ## Connect with Me
 Feel free to [drop me an email](mailto:piyush.sadangi@gmail.com) anytime!
