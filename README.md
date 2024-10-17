@@ -9,7 +9,6 @@ While I'm on my journey to make a mark in the expansive universe of open source,
 - [checkstyke/test-configs](https://github.com/checkstyle/test-configs/pulls?q=is%3Apr+is%3Amerged)
 
 ## My Contributions in GSoC, 2024
-
 - **Built a scalable and maintainable Gradle project under a new repo (`checkstyle/test-configs`) from scratch**
 - **Migrated Groovy Regression to Java**
 - **Created GitHub Actions Workflow (`regression-report.yml`):**
@@ -26,18 +25,20 @@ While I'm on my journey to make a mark in the expansive universe of open source,
 5. ❌ Closed PR [#215](https://github.com/checkstyle/test-configs/pull/215) in [checkstyle/test-configs](https://github.com/checkstyle/test-configs)
 <!--END_SECTION:activity-->
 
+## Domain Expertise:
+Telecom: Event-Driven Architecture
+Finance: Retirement Solutions Providers / 401(k) Plan Solutions 
+
 ## Professional Experience
-- Develop new APIs to enhance financial platform capabilities.
-- Optimize system performance, reducing latency for a smoother user experience.
-- Debug and resolve complex software defects.
-- Conduct API testing to ensure reliability and security.
-- Automate deployment pipelines using Jenkins.
-- Leverage AWS services like S3 and EC2 for scalable infrastructure.
-- Optimized message delivery in event-driven microservices with RabbitMQ.
-- Carried some painful migrtions of Java to the Latest Stable Release version, Groovy to Java along the way
+- API Development: Created and enhanced APIs using microservices architecture, enabling seamless inter-service communication and collaboration across teams.
+- Performance Optimization: Reduced API latency and improved response times; optimized message delivery with RabbitMQ for reliable data processing.
+- Quality Assurance: Conducted thorough API testing and resolved complex software defects to ensure system reliability and security.
+- CI/CD Management: Streamlined deployment pipelines with Jenkins, facilitating continuous integration and delivery.
+- Cloud Infrastructure: Utilized AWS services (S3, EC2) to build and maintain scalable infrastructure.
+- Containerization: Developed and optimized Docker images, enhancing application performance through efficient Dockerfile modifications.
+- Technology Migration: Led migrations from legacy Java versions to the latest releases and transitioned codebases from Groovy to Java for better maintainability and scalability.
 
 ## Skills
-
 - **Languages**: Java, Groovy, Bash  
 - **Frameworks**: Spring Boot, Spring Security, JUnit 5, Hibernate
 - **Messaging**: RabbitMQ  
