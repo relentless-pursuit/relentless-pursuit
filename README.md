@@ -26,17 +26,17 @@ While I'm on my journey to make a mark in the expansive universe of open source,
 <!--END_SECTION:activity-->
 
 ## Domain Expertise:
-- Telecom: Event-Driven Architecture
-- Finance: Retirement Solutions Providers / 401(k) Plan Solutions 
+- **Telecom:** Event-Driven Architecture
+- **Finance:** Retirement Solutions Providers / 401(k) Plan Solutions
 
 ## Professional Experience
-- API Development: Created and enhanced APIs using microservices architecture, enabling seamless inter-service communication and collaboration across teams.
-- Performance Optimization: Reduced API latency and improved response times; optimized message delivery with RabbitMQ for reliable data processing.
-- Quality Assurance: Conducted thorough API testing and resolved complex software defects to ensure system reliability and security.
-- CI/CD Management: Streamlined deployment pipelines with Jenkins, facilitating continuous integration and delivery.
-- Cloud Infrastructure: Utilized AWS services (S3, EC2) to build and maintain scalable infrastructure.
-- Containerization: Developed and optimized Docker images, enhancing application performance through efficient Dockerfile modifications.
-- Technology Migration: Led migrations from legacy Java versions to the latest releases and transitioned codebases from Groovy to Java for better maintainability and scalability.
+- **API Development:** Designed and implemented APIs for 401(k) plan solutions within a microservices framework, ensuring seamless integration and functionality.
+- **Performance Optimization:** Enhanced API performance by minimizing latency and optimizing RabbitMQ for efficient message delivery.
+- **Quality Assurance:** Performed comprehensive API testing and debugged complex issues to maintain high system reliability and security standards.
+- **CI/CD Management:** Managed Jenkins-based deployment pipelines to support continuous integration and rapid delivery cycles.
+- **Cloud Infrastructure:** Leveraged AWS services (S3, EC2) to develop and sustain scalable and resilient financial infrastructure.
+- **Containerization:** Built and fine-tuned Docker images, improving application efficiency through strategic Dockerfile optimizations.
+- **Technology Migration:** Directed the upgrade from older Java versions to the latest stable releases and migrated code from Groovy to Java, enhancing system scalability and code quality.
 
 ## Skills
 - **Languages**: Java, Groovy, Bash  
@@ -48,5 +48,3 @@ While I'm on my journey to make a mark in the expansive universe of open source,
 
 ## Connect with Me
 Feel free to [drop me an email](mailto:piyush.sadangi@gmail.com) anytime!
-
-
