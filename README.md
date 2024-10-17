@@ -8,27 +8,14 @@ While I'm on my journey to make a mark in the expansive universe of open source,
 - [checkstyle/contribution](https://github.com/checkstyle/contribution/pulls?q=is%3Apr+author%3Arelentless-pursuit)
 - [checkstyke/test-configs](https://github.com/checkstyle/test-configs/pulls?q=is%3Apr+is%3Amerged)
 
----
-
 ### My Contributions in GSoC, 2024
 
-- **Developed Gradle Application (`checkstyle/test-configs`):**
-  - Automated extraction of Checkstyle configurations and example inputs.
-  - Serialized configurations and auto-generated README files to improve testability and documentation.
-
-- **Converted `diff.groovy` to `DiffTool.java`:**
-  - Translated complex Groovy logic into a structured Java program.
-  - Enhanced error handling, command-line interface, and integration with Checkstyle’s regression testing workflow.
-
+- **Built a scalable and maintainable Gradle project under a new repo (`checkstyle/test-configs`)
+- **Migrated Groovy Regression to Java**
 - **Created GitHub Actions Workflow (`regression-report.yml`):**
-  - Automated regression testing for pull requests.
-  - Integrated AWS S3 for report uploads, caching, and optimized for large-scale testing.
-
 - **Code Contributions to Checkstyle:**
   - **All Pull Requests (PRs) related to the `checkstyle/test-config`** can be found [here](https://github.com/checkstyle/test-configs/pulls?q=is%3Apr+is%3Amerged+author%3Arelentless-pursuit+created%3A%3E%3D2024-05-01+merged%3A%3C%3D2024-10-16).
   - **All Pull Requests (PRs) related to the `checkstyle/checkstyle`** can be found [here](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+is%3Amerged+author%3Arelentless-pursuit+created%3A%3E%3D2024-05-01+merged%3A%3C%3D2024-10-16).
-
---- 
 
 ## Professional Experience
 - Develop new APIs to enhance financial platform capabilities.
@@ -40,8 +27,6 @@ While I'm on my journey to make a mark in the expansive universe of open source,
 - Optimized message delivery in event-driven microservices with RabbitMQ.
 - Carried some painful migrtions of Java to the Latest Stable Release version, Groovy to Java along the way
 
----
-
 ## Skills
 
 - **Languages**: Java 8, Groovy, Bash  
@@ -50,8 +35,6 @@ While I'm on my journey to make a mark in the expansive universe of open source,
 - **Tools**: Git, GitHub, SonarQube, Maven, Gradle, SoapUI, Postman  
 - **DevOps**: GitHub Actions, Jenkins  
 - **Databases**: MySQL  
-
----
 
 ## Connect with Me
 Feel free to [drop me an email](mailto:piyush.sadangi@gmail.com) anytime!
