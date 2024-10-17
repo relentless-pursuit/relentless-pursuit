@@ -10,7 +10,7 @@ While I'm on my journey to make a mark in the expansive universe of open source,
 
 ## My Contributions in GSoC, 2024
 
-- **Built a scalable and maintainable Gradle project under a new repo (`checkstyle/test-configs`)
+- **Built a scalable and maintainable Gradle project under a new repo (`checkstyle/test-configs`) from scratch**
 - **Migrated Groovy Regression to Java**
 - **Created GitHub Actions Workflow (`regression-report.yml`):**
 - **Code Contributions to Checkstyle:**
