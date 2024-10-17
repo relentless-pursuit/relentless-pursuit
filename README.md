@@ -6,24 +6,54 @@ While I'm on my journey to make a mark in the expansive universe of open source,
 - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3Arelentless-pursuit+is%3Amerged+merged%3A%3E2023-01-01)
 - [ankidroid/andkidroid](https://github.com/ankidroid/Anki-Android/pulls?q=is%3Apr+author%3Arelentless-pursuit+is%3Amerged+merged%3A%3E2023-01-01)
 - [checkstyle/contribution](https://github.com/checkstyle/contribution/pulls?q=is%3Apr+author%3Arelentless-pursuit)
+- [checkstyke/test-configs](https://github.com/checkstyle/test-configs/pulls?q=is%3Apr+is%3Amerged)
 
-## Things I've Worked On
-  - Developed RESTful web services using Java 8 and Spring Boot.
-  - Optimized message delivery in event-driven microservices with RabbitMQ.
-  - Strengthened code quality by integrating tools like SonarQube.
-  - Contributed to building a project internal robust Java library from scratch for JSON event processing.
-  - Integrated Jasypt into the codebase and configuring it to handle encryption and decryption operations.
-  - Spearheaded the migration of projects to Java 17, ensuring they align with the latest technological advancements.
+---
+
+### My Contributions in GSoC, 2024
+
+- **Developed Gradle Application (`checkstyle/test-configs`):**
+  - Automated extraction of Checkstyle configurations and example inputs.
+  - Serialized configurations and auto-generated README files to improve testability and documentation.
+
+- **Converted `diff.groovy` to `DiffTool.java`:**
+  - Translated complex Groovy logic into a structured Java program.
+  - Enhanced error handling, command-line interface, and integration with Checkstyle’s regression testing workflow.
+
+- **Created GitHub Actions Workflow (`regression-report.yml`):**
+  - Automated regression testing for pull requests.
+  - Integrated AWS S3 for report uploads, caching, and optimized for large-scale testing.
+
+- **Code Contributions to Checkstyle:**
+  - **All Pull Requests (PRs) related to the `checkstyle/test-config`** can be found [here](https://github.com/checkstyle/test-configs/pulls?q=is%3Apr+is%3Amerged+author%3Arelentless-pursuit+created%3A%3E%3D2024-05-01+merged%3A%3C%3D2024-10-16).
+  - **All Pull Requests (PRs) related to the `checkstyle/checkstyle`** can be found [here](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+is%3Amerged+author%3Arelentless-pursuit+created%3A%3E%3D2024-05-01+merged%3A%3C%3D2024-10-16).
+
+--- 
+
+## Professional Experience
+- Develop new APIs to enhance financial platform capabilities.
+- Optimize system performance, reducing latency for a smoother user experience.
+- Debug and resolve complex software defects.
+- Conduct API testing to ensure reliability and security.
+- Automate deployment pipelines using Jenkins.
+- Leverage AWS services like S3 and EC2 for scalable infrastructure.
+- Optimized message delivery in event-driven microservices with RabbitMQ.
+- Carried some painful migrtions of Java to the Latest Stable Release version, Groovy to Java along the way
+
+---
 
 ## Skills
-- **Languages**: Java 8, Groovy
-- **Frameworks**: Spring Boot, Hibernate
-- **Tools**: Git, GitHub, SonarQube, JUnit, Swagger, RabbitMQ, Gerrit, Maven
-- **Databases**: MySQl
-- **AI tools**: GPT-4, Bard, ChatGPT
 
-## My Write-ups 
-Knowledge grows when shared. I occasionally pen my thoughts and share insights on [LinkedIn](www.linkedin.com/in/piyush-sadangi).
+- **Languages**: Java 8, Groovy, Bash  
+- **Frameworks**: Spring Boot, Spring Security, JUnit 5  
+- **Messaging**: RabbitMQ  
+- **Tools**: Git, GitHub, SonarQube, Maven, Gradle, SoapUI, Postman  
+- **DevOps**: GitHub Actions, Jenkins  
+- **Databases**: MySQL  
+
+---
 
 ## Connect with Me
 Feel free to [drop me an email](mailto:piyush.sadangi@gmail.com) anytime!
+
+
