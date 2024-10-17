@@ -17,6 +17,10 @@ While I'm on my journey to make a mark in the expansive universe of open source,
   - **All Pull Requests (PRs) related to the `checkstyle/test-config`** can be found [here](https://github.com/checkstyle/test-configs/pulls?q=is%3Apr+is%3Amerged+author%3Arelentless-pursuit+created%3A%3E%3D2024-05-01+merged%3A%3C%3D2024-10-16).
   - **All Pull Requests (PRs) related to the `checkstyle/checkstyle`** can be found [here](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+is%3Amerged+author%3Arelentless-pursuit+created%3A%3E%3D2024-05-01+merged%3A%3C%3D2024-10-16).
 
+## Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## Professional Experience
 - Develop new APIs to enhance financial platform capabilities.
 - Optimize system performance, reducing latency for a smoother user experience.
