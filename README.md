@@ -6,7 +6,7 @@ While I'm on my journey to make a mark in the expansive universe of open source,
 - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3Arelentless-pursuit+is%3Amerged+merged%3A%3E2023-01-01)
 - [ankidroid/andkidroid](https://github.com/ankidroid/Anki-Android/pulls?q=is%3Apr+author%3Arelentless-pursuit+is%3Amerged+merged%3A%3E2023-01-01)
 - [checkstyle/contribution](https://github.com/checkstyle/contribution/pulls?q=is%3Apr+author%3Arelentless-pursuit)
-- [checkstyke/test-configs](https://github.com/checkstyle/test-configs/pulls?q=is%3Apr+is%3Amerged)
+- [checkstyle/test-configs](https://github.com/checkstyle/test-configs/pulls?q=is%3Apr+is%3Amerged)
 
 ## My Contributions in Google Summer of Code, 2024
 - **Built a scalable and maintainable Gradle project under a new repo (`checkstyle/test-configs`) from scratch**
