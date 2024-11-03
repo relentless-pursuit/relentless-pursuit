@@ -12,6 +12,7 @@ While I'm on my journey to make a mark in the expansive universe of open source,
 - **Built a scalable and maintainable Gradle project under a new repo (`checkstyle/test-configs`) from scratch**
 - **Migrated Groovy Regression to Java**
 - **Created GitHub Actions Workflow (`regression-report.yml`)**
+- **Crafted CI/CD pipelines for `checkstyle/test-configs` to proof future contributions**
 - **Code Contributionse**
   - **All Pull Requests (PRs) related to the `checkstyle/test-config`** can be found [here](https://github.com/checkstyle/test-configs/pulls?q=is%3Apr+is%3Amerged+author%3Arelentless-pursuit+created%3A%3E%3D2024-05-01+merged%3A%3C%3D2024-10-16).
   - **All Pull Requests (PRs) related to the `checkstyle/checkstyle`** can be found [here](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+is%3Amerged+author%3Arelentless-pursuit+created%3A%3E%3D2024-05-01+merged%3A%3C%3D2024-10-16).
