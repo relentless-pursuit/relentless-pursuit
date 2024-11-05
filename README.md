@@ -19,11 +19,11 @@ While I'm on my journey to make a mark in the expansive universe of open source,
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15578](https://github.com/checkstyle/checkstyle/pull/15578#issuecomment-2415367229) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-2. 🗣 Commented on [#15578](https://github.com/checkstyle/checkstyle/pull/15578#issuecomment-2415366690) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
-3. 💪 Opened PR [#217](https://github.com/checkstyle/test-configs/pull/217) in [checkstyle/test-configs](https://github.com/checkstyle/test-configs)
-4. 💪 Opened PR [#216](https://github.com/checkstyle/test-configs/pull/216) in [checkstyle/test-configs](https://github.com/checkstyle/test-configs)
-5. ❌ Closed PR [#215](https://github.com/checkstyle/test-configs/pull/215) in [checkstyle/test-configs](https://github.com/checkstyle/test-configs)
+1. 🗣 Commented on [#1](https://github.com/checkstyle-gsoc/checkstyle/pull/1#issuecomment-2455876422) in [checkstyle-gsoc/checkstyle](https://github.com/checkstyle-gsoc/checkstyle)
+2. 🗣 Commented on [#34](https://github.com/checkstyle-gsoc/checkstyle/pull/34#issuecomment-2455859443) in [checkstyle-gsoc/checkstyle](https://github.com/checkstyle-gsoc/checkstyle)
+3. 🗣 Commented on [#34](https://github.com/checkstyle-gsoc/checkstyle/pull/34#issuecomment-2455843702) in [checkstyle-gsoc/checkstyle](https://github.com/checkstyle-gsoc/checkstyle)
+4. 💪 Opened PR [#34](https://github.com/checkstyle-gsoc/checkstyle/pull/34) in [checkstyle-gsoc/checkstyle](https://github.com/checkstyle-gsoc/checkstyle)
+5. 🗣 Commented on [#15578](https://github.com/checkstyle/checkstyle/pull/15578#issuecomment-2415367229) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
 <!--END_SECTION:activity-->
 
 ## Domain Expertise
